@@ -1,1 +1,1 @@
-Currently holds some projects I've done in CS184 - Computer Graphics
+Some cool computer graphics stuff I did in school.
